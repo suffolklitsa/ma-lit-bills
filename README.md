@@ -1,6 +1,6 @@
 # ma-lit-bills
 
-A neutral tracker of Massachusetts bills that touch technology. For each bill: where it stands, its committee and history, its sponsors, topic tags, and a short plain-language summary written or checked by a person. A weekly digest feeds the LITSA newsletter, and the tracker will appear at suffolklitsa.org/bills.
+A neutral tracker of Massachusetts bills that touch technology, and of the law already on the books that they'd change. For each bill: where it stands, its committee and history, its sponsors, topic tags, and a short plain-language summary written or checked by a person. A weekly digest feeds the LITSA newsletter, and the tracker will appear at suffolklitsa.org/bills.
 
 **Status:** data pipeline working against the Legislature's public API. Topic matching, review workflow and digest are in place. Summaries, hearings and the site page are next. Goal: fully running for the 2027-2028 session, when most bills are filed in January.
 
@@ -12,7 +12,7 @@ The tracker describes bills. It never supports or opposes one, never ranks them 
 
 AI · privacy and data protection · cybersecurity and breach notice · biometrics and facial recognition · government surveillance technology · kids' online safety · digital right to repair · broadband and telecommunications · autonomous vehicles · crypto and fintech · courts and legal technology · online platforms and e-commerce.
 
-Each topic and the phrases that flag a bill for it are in [topics/topics.toml](topics/topics.toml). Later: court decisions interpreting these laws once they're enacted.
+Each topic and the phrases that flag a bill for it are in [topics/topics.toml](topics/topics.toml). Current law: the General Laws sections in force on each topic, with their text, so a reader can see what a bill would change (issues #14 to #16). Later: court decisions interpreting these laws.
 
 ## How it works
 

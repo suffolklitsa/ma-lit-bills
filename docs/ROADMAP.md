@@ -8,6 +8,14 @@
 - [ ] Hearings: committee hearing dates for tracked bills
 - [ ] Committee names on each record (for example the Joint Committee on Advanced Information Technology, the Internet and Cybersecurity)
 
+## Current law
+
+- [ ] List of General Laws sections in force on each topic (#14)
+- [ ] Statute text fetched and stored, with changes noted (#15)
+- [ ] Bills linked to the sections they'd amend (#16)
+- [ ] Enacted bills matched to session laws (#17)
+- [ ] Regulations (for example 201 CMR 17.00), from mass.gov rather than the Legislature's API
+
 ## Before January 2027
 
 - [ ] Weekly scheduled fetch and digest
@@ -18,5 +26,4 @@
 ## Later
 
 - Court decisions interpreting enacted tech statutes
-- Session laws: which tracked bills became law, with chapter numbers
 - Testimony calendar for members who want to testify as individuals
