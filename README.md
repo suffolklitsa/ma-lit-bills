@@ -57,6 +57,10 @@ python3 -m unittest discover -s tests
 | `scripts/` | `fetch.py`, `validate.py`, `digest.py` |
 | `docs/` | Data contract, summary rules, roadmap, decisions |
 
+## Branches
+
+Pull requests go to `staging`, the default branch. `main` is the released version: maintainers promote `staging` to `main` with a pull request when a batch of changes is ready. Both branches are protected and need a review and passing checks.
+
 ## Contributing
 
 There's work for coders and non-coders. Reviewing candidates and writing summaries need no code at all. Start with an issue labeled [`no code needed`](https://github.com/suffolklitsa/ma-lit-bills/labels/no%20code%20needed) or [`good first issue`](https://github.com/suffolklitsa/ma-lit-bills/labels/good%20first%20issue), and read [CONTRIBUTING.md](CONTRIBUTING.md).

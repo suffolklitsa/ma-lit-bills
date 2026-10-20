@@ -17,6 +17,7 @@ python3 scripts/digest.py --court 194 --since YYYY-MM-DD
 
 ## Rules for this repo
 
+- **Branches:** work from `staging` and open pull requests against it. Never target `main`; maintainers promote `staging` to `main`.
 - **Neutral, always.** Code, summaries and digest text describe bills. Never support, oppose, rank or predict. No adjectives that tell the reader how to feel.
 - **Summaries come from bill text.** An agent may draft one, but a person checks it against the bill and a second R&W member reviews it. Never fill `reviewed_by` for someone.
 - **Be polite to the API:** keep the one-second spacing and the cache, and don't add parallel requests. Tests use saved sample responses, never the live API.
