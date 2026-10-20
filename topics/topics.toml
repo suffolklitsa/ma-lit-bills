@@ -1,0 +1,65 @@
+# Topic tags. A bill whose title matches any `match` phrase (case-insensitive, whole words) becomes a
+# CANDIDATE for that topic. A person confirms or rejects every candidate in data/<court>/review.toml.
+# `exclude` phrases stop a match (for example "data" in a non-tech sense).
+# Change the phrases here; never hand-edit bills.json.
+
+[ai]
+name = "Artificial intelligence"
+description = "AI systems, automated decision-making, algorithms used to make decisions about people, synthetic media and deepfakes"
+match = ["artificial intelligence", "automated decision", "algorithmic", "algorithm", "machine learning", "deepfake", "synthetic media", "generative", "chatbot"]
+
+[privacy]
+name = "Privacy and data protection"
+description = "Collection, sale and use of personal data; consumer data rights; location and health data"
+match = ["data privacy", "consumer data", "personal data", "personal information", "location data", "location information", "data broker", "privacy"]
+exclude = ["privacy of the home"]
+
+[cybersecurity]
+name = "Cybersecurity and breach notice"
+description = "Security requirements, breach notification, ransomware, critical infrastructure security"
+match = ["cybersecurity", "cyber security", "data breach", "security breach", "ransomware", "information security"]
+
+[biometrics]
+name = "Biometrics and facial recognition"
+description = "Biometric identifiers, facial recognition and similar technologies"
+match = ["biometric", "facial recognition", "face surveillance", "face recognition"]
+
+[surveillance]
+name = "Government surveillance technology"
+description = "Police and government use of surveillance tools: drones, license plate readers, cell-site simulators"
+match = ["surveillance", "license plate reader", "automated license plate", "drone", "unmanned aerial", "cell site simulator"]
+
+[kids-online]
+name = "Kids' online safety"
+description = "Social media, online platforms and minors; age verification; design codes"
+match = ["social media", "online safety", "age verification", "age-appropriate design", "minors online", "children online"]
+
+[right-to-repair]
+name = "Digital right to repair"
+description = "Access to diagnostics, parts, tools and software for devices and vehicles"
+match = ["right to repair", "fair repair", "digital electronic equipment", "telematics"]
+
+[broadband]
+name = "Broadband and telecommunications"
+description = "Internet access, broadband deployment, net neutrality, telecommunications regulation"
+match = ["broadband", "internet service", "net neutrality", "high-speed internet", "digital equity"]
+
+[autonomous-vehicles]
+name = "Autonomous vehicles"
+description = "Self-driving and automated vehicles, testing and liability"
+match = ["autonomous vehicle", "self-driving", "automated driving", "highly automated vehicle"]
+
+[crypto-fintech]
+name = "Crypto and fintech"
+description = "Digital assets, cryptocurrency, blockchain, virtual currency kiosks, payments technology"
+match = ["digital asset", "cryptocurrency", "virtual currency", "blockchain", "crypto"]
+
+[court-tech]
+name = "Courts and legal technology"
+description = "Electronic filing, remote proceedings, court records access, technology in legal services"
+match = ["electronic filing", "remote proceeding", "virtual hearing", "court records", "electronic court"]
+
+[platforms]
+name = "Online platforms and e-commerce"
+description = "Platform accountability, online marketplaces, ticket resale bots, digital consumer protection"
+match = ["online marketplace", "online platform", "e-commerce", "ticket bots", "digital platform", "subscription"]

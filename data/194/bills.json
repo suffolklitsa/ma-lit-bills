@@ -1,0 +1,6763 @@
+{
+ "schema_version": 1,
+ "court": 194,
+ "documents_scanned": 11971,
+ "bills": [
+  {
+   "bill": "H75",
+   "docket": "HD902",
+   "court": 194,
+   "title": "An Act related to the resiliency, public safety and quality of broadband in Massachusetts",
+   "url": "https://malegislature.gov/Bills/194/H75",
+   "primary_sponsor": "Kip A. Diggs",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-09-17",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-17",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H77",
+   "docket": "HD1458",
+   "court": 194,
+   "title": "An Act fostering artificial intelligence responsibility",
+   "url": "https://malegislature.gov/Bills/194/H77",
+   "primary_sponsor": "Tricia Farley-Bouvier",
+   "cosponsor_count": 27,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-24",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-12-24",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H78",
+   "docket": "HD2135",
+   "court": 194,
+   "title": "An Act establishing the Massachusetts consumer data privacy act",
+   "url": "https://malegislature.gov/Bills/194/H78",
+   "primary_sponsor": "Tricia Farley-Bouvier",
+   "cosponsor_count": 32,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-11-17",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4746"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, November 12, 2025"
+    },
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4746"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H80",
+   "docket": "HD4073",
+   "court": 194,
+   "title": "An Act establishing the Comprehensive Massachusetts Consumer Data Privacy Act",
+   "url": "https://malegislature.gov/Bills/194/H80",
+   "primary_sponsor": "Kate Hogan",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-11-17",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4746"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, November 12, 2025"
+    },
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4746"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H81",
+   "docket": "HD1222",
+   "court": 194,
+   "title": "An Act relative to artificial intelligence disclosure",
+   "url": "https://malegislature.gov/Bills/194/H81",
+   "primary_sponsor": "Steven S. Howitt",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-12",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5073"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5073"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H86",
+   "docket": "HD2965",
+   "court": 194,
+   "title": "An Act to protect location privacy",
+   "url": "https://malegislature.gov/Bills/194/H86",
+   "primary_sponsor": "Kate Lipper-Garabedian",
+   "cosponsor_count": 111,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-11-17",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4746"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, November 12, 2025"
+    },
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4746"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H88",
+   "docket": "HD312",
+   "court": 194,
+   "title": "An Act establishing a special commission on blockchain and cryptocurrency",
+   "url": "https://malegislature.gov/Bills/194/H88",
+   "primary_sponsor": "Kate Lipper-Garabedian",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-12",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5072"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5072"
+    }
+   ],
+   "topics": [
+    "crypto-fintech"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H90",
+   "docket": "HD1861",
+   "court": 194,
+   "title": "An Act regulating provenance regarding artificial intelligence",
+   "url": "https://malegislature.gov/Bills/194/H90",
+   "primary_sponsor": "Jay D. Livingstone",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-12",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5073"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5073"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H92",
+   "docket": "HD846",
+   "court": 194,
+   "title": "An Act creating the Massachusetts digital equity broadband adoption program",
+   "url": "https://malegislature.gov/Bills/194/H92",
+   "primary_sponsor": "Frank A. Moran",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-14",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-14",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H94",
+   "docket": "HD396",
+   "court": 194,
+   "title": "An Act to ensure accountability and transparency in artificial intelligence systems",
+   "url": "https://malegislature.gov/Bills/194/H94",
+   "primary_sponsor": "Francisco E. Paulino",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-24",
+    "branch": "House",
+    "action": "Accompanied H97"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-12-24",
+     "branch": "House",
+     "action": "Accompanied H97"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H96",
+   "docket": "HD3523",
+   "court": 194,
+   "title": "An Act to provide accountability in the use of biometric recognition technology and comprehensive enforcement",
+   "url": "https://malegislature.gov/Bills/194/H96",
+   "primary_sponsor": "David M. Rogers",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-11-17",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4746"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, November 12, 2025"
+    },
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4746"
+    }
+   ],
+   "topics": [
+    "biometrics"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H97",
+   "docket": "HD4053",
+   "court": 194,
+   "title": "An Act protecting consumers in interactions with artificial intelligence systems",
+   "url": "https://malegislature.gov/Bills/194/H97",
+   "primary_sponsor": "David M. Rogers",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-24",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-12-24",
+     "branch": "House",
+     "action": "Accompanied by H94"
+    },
+    {
+     "date": "2025-12-24",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H98",
+   "docket": "HD2835",
+   "court": 194,
+   "title": "An Act relative to internet privacy rights for children",
+   "url": "https://malegislature.gov/Bills/194/H98",
+   "primary_sponsor": "David M. Rogers",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-07-30",
+    "branch": "House",
+    "action": "Reporting date extended to Wednesday, November 12, 2025"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, November 12, 2025"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H99",
+   "docket": "HD921",
+   "court": 194,
+   "title": "An Act relative to surveillance pricing in grocery stores",
+   "url": "https://malegislature.gov/Bills/194/H99",
+   "primary_sponsor": "Lindsay N. Sabadosa",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-08-18",
+    "branch": "House",
+    "action": "Read second and ordered to a third reading"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-07-21",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling"
+    },
+    {
+     "date": "2025-08-18",
+     "branch": "House",
+     "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting"
+    },
+    {
+     "date": "2025-08-18",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2025-08-18",
+     "branch": "House",
+     "action": "Read second and ordered to a third reading"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H101",
+   "docket": "HD338",
+   "court": 194,
+   "title": "An Act establishing free broadband internet access in public housing",
+   "url": "https://malegislature.gov/Bills/194/H101",
+   "primary_sponsor": "Danillo A. Sena",
+   "cosponsor_count": 6,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-14",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-14",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H103",
+   "docket": "HD4127",
+   "court": 194,
+   "title": "An Act to establish the Massachusetts neural data privacy protection act",
+   "url": "https://malegislature.gov/Bills/194/H103",
+   "primary_sponsor": "Andres X. Vargas",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-11-17",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4746"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, November 12, 2025"
+    },
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4746"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H104",
+   "docket": "HD2110",
+   "court": 194,
+   "title": "An Act establishing the Massachusetts Data Privacy Act",
+   "url": "https://malegislature.gov/Bills/194/H104",
+   "primary_sponsor": "Andres X. Vargas",
+   "cosponsor_count": 18,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-11-17",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4746"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, November 12, 2025"
+    },
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4746"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H378",
+   "docket": "HD3628",
+   "court": 194,
+   "title": "An Act for the protection and privacy of social care information",
+   "url": "https://malegislature.gov/Bills/194/H378",
+   "primary_sponsor": "Jessica Ann Giannino",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-11",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5080"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/08/2025 from 10:00 AM-1:00 PM in A-2"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5080"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H389",
+   "docket": "HD1083",
+   "court": 194,
+   "title": "An Act to prohibit negative option sales and disclosure of financial and personal information without a consumer’s express agreement",
+   "url": "https://malegislature.gov/Bills/194/H389",
+   "primary_sponsor": "Steven S. Howitt",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-11",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5080"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-09-19",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/01/2025 from 10:00 AM-01:00 PM in B-2                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing location changed</span>"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5080"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H398",
+   "docket": "HD1300",
+   "court": 194,
+   "title": "An Act relative to disclosure notice in the right to repair motor vehicle data law",
+   "url": "https://malegislature.gov/Bills/194/H398",
+   "primary_sponsor": "Steven S. Howitt",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-17",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5081"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-02",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/14/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-14",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/14/2025 from 10:00 AM-11:30 AM in A-2                                                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-02-17",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5081"
+    }
+   ],
+   "topics": [
+    "right-to-repair"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H433",
+   "docket": "HD3779",
+   "court": 194,
+   "title": "An Act relative to digital right to repair",
+   "url": "https://malegislature.gov/Bills/194/H433",
+   "primary_sponsor": "Adrian C. Madaro",
+   "cosponsor_count": 10,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-01-28",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4982"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-09-19",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/01/2025 from 10:00 AM-01:00 PM in B-2                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing location changed</span>"
+    },
+    {
+     "date": "2026-01-28",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4982"
+    }
+   ],
+   "topics": [
+    "right-to-repair"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H452",
+   "docket": "HD397",
+   "court": 194,
+   "title": "An Act relative to the right to repair for agricultural equipment",
+   "url": "https://malegislature.gov/Bills/194/H452",
+   "primary_sponsor": "Francisco E. Paulino",
+   "cosponsor_count": 9,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-11",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5080"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-09-19",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/01/2025 from 10:00 AM-01:00 PM in B-2                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing location changed</span>"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5080"
+    }
+   ],
+   "topics": [
+    "right-to-repair"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H495",
+   "docket": "HD4192",
+   "court": 194,
+   "title": "An Act reducing emissions from artificial intelligence",
+   "url": "https://malegislature.gov/Bills/194/H495",
+   "primary_sponsor": "David M. Rogers",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-03-05",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5178"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Economic Development and Emerging Technologies"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-09-16",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/25/2025 from 11:00 AM-01:00 PM in A-1"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/25/2025 from 11:00 AM-11:30 AM in A-1                                                                                                                  and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-03-05",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5178"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H633",
+   "docket": "HD842",
+   "court": 194,
+   "title": "An Act relative to student and educator data privacy",
+   "url": "https://malegislature.gov/Bills/194/H633",
+   "primary_sponsor": "Kate Lipper-Garabedian",
+   "cosponsor_count": 6,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-08-18",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4405"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Education"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-05-02",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/12/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-08-18",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4405"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H638",
+   "docket": "HD1589",
+   "court": 194,
+   "title": "An Act to protect library patron privacy",
+   "url": "https://malegislature.gov/Bills/194/H638",
+   "primary_sponsor": "Jay D. Livingstone",
+   "cosponsor_count": 4,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-23",
+    "branch": "House",
+    "action": "Read second and ordered to a third reading"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Education"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-06",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 06/17/2025 from 01:00 PM-05:00 PM in B-2"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Read second and ordered to a third reading"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H795",
+   "docket": "HD4134",
+   "court": 194,
+   "title": "An Act promoting infection prevention and privacy for residents of nursing homes",
+   "url": "https://malegislature.gov/Bills/194/H795",
+   "primary_sponsor": "Jeffrey Rosario Turco",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Elder Affairs"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-27",
+     "branch": "Joint",
+     "action": "Referred, pursuant to an order adopted by the two branches, to the committee on Aging and Independence"
+    },
+    {
+     "date": "2025-09-03",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/16/2025 from 10:00 AM-1:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-30",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5310 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H798",
+   "docket": "HD1785",
+   "court": 194,
+   "title": "An Act requiring dignity, privacy, and safety for residents in nursing homes and rest homes",
+   "url": "https://malegislature.gov/Bills/194/H798",
+   "primary_sponsor": "Thomas P. Walsh",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Elder Affairs"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-27",
+     "branch": "Joint",
+     "action": "Referred, pursuant to an order adopted by the two branches, to the committee on Aging and Independence"
+    },
+    {
+     "date": "2025-09-03",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/16/2025 from 10:00 AM-1:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-30",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5310 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H846",
+   "docket": "HD3373",
+   "court": 194,
+   "title": "An Act enhancing disclosure requirements for synthetic media in political advertising",
+   "url": "https://malegislature.gov/Bills/194/H846",
+   "primary_sponsor": "Bradley H. Jones, Jr.",
+   "cosponsor_count": 5,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-11",
+    "branch": "House",
+    "action": "New draft substituted, see H5094"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Election Laws"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-27",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/08/2025 from 01:00 PM-04:00 PM in B-1"
+    },
+    {
+     "date": "2025-09-02",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Committee recommended bill ought to pass and referred to the committee on House Ways and Means"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H5094"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting for a second reading with the amendment pending"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Read second, amended (as recommended by the committee on House Ways and Means)"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "New draft substituted, see H5094"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1089",
+   "docket": "HD2648",
+   "court": 194,
+   "title": "An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators",
+   "url": "https://malegislature.gov/Bills/194/H1089",
+   "primary_sponsor": "Bruce J. Ayers",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-03-12",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5224"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Financial Services"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/07/2025 from 10:30 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-07",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/07/2025 from 10:30 AM-01:10 PM in A-2                                                                                                                                                    and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-03-12",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5224"
+    }
+   ],
+   "topics": [
+    "crypto-fintech"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1130",
+   "docket": "HD2125",
+   "court": 194,
+   "title": "An Act relative to telehealth and digital equity for patients",
+   "url": "https://malegislature.gov/Bills/194/H1130",
+   "primary_sponsor": "Marjorie C. Decker",
+   "cosponsor_count": 24,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-05",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H5017"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Financial Services"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-02",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/14/2025 from 10:30 AM-01:00 PM in A-1"
+    },
+    {
+     "date": "2026-02-05",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H5017"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1199",
+   "docket": "HD1076",
+   "court": 194,
+   "title": "An Act protecting consumers' privacy in mortgage applications",
+   "url": "https://malegislature.gov/Bills/194/H1199",
+   "primary_sponsor": "Daniel J. Hunt",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-07-28",
+    "branch": "House",
+    "action": "Accompanied H1110"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Financial Services"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-04-08",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/15/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-07-28",
+     "branch": "House",
+     "action": "Accompanied H1110"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1564",
+   "docket": "HD2226",
+   "court": 194,
+   "title": "An Act relative to preventing algorithmic rent fixing in the rental housing market",
+   "url": "https://malegislature.gov/Bills/194/H1564",
+   "primary_sponsor": "Lindsay N. Sabadosa",
+   "cosponsor_count": 8,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-03-12",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H5222"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Housing"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-11-07",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 11/19/2025 from 11:00 AM-05:00 PM in Gardner Auditorium"
+    },
+    {
+     "date": "2026-01-15",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-03-12",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H5222"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1643",
+   "docket": "HD3331",
+   "court": 194,
+   "title": "An Act to protect the privacy of 911 callers",
+   "url": "https://malegislature.gov/Bills/194/H1643",
+   "primary_sponsor": "Michael S. Day",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-23",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4634"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4634"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1688",
+   "docket": "HD3365",
+   "court": 194,
+   "title": "An Act relative to unmanned aerial vehicles",
+   "url": "https://malegislature.gov/Bills/194/H1688",
+   "primary_sponsor": "Michael J. Finn",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-23",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4637"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4637"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1784",
+   "docket": "HD1338",
+   "court": 194,
+   "title": "An Act relative to the enticement of children online",
+   "url": "https://malegislature.gov/Bills/194/H1784",
+   "primary_sponsor": "Bradley H. Jones, Jr.",
+   "cosponsor_count": 6,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-05",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 06/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 06/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-26",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5281 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1797",
+   "docket": "HD3380",
+   "court": 194,
+   "title": "An Act establishing a special legislative commission to study the use of IVRs and other strategies by social media platforms",
+   "url": "https://malegislature.gov/Bills/194/H1797",
+   "primary_sponsor": "Bradley H. Jones, Jr.",
+   "cosponsor_count": 5,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-26",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5281 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1879",
+   "docket": "HD281",
+   "court": 194,
+   "title": "An Act to ensure backyard privacy",
+   "url": "https://malegislature.gov/Bills/194/H1879",
+   "primary_sponsor": "Joseph D. McKenna",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-10",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/21/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-26",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5281 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1915",
+   "docket": "HD701",
+   "court": 194,
+   "title": "An Act relative to the malicious doxing of personal information",
+   "url": "https://malegislature.gov/Bills/194/H1915",
+   "primary_sponsor": "Tram T. Nguyen",
+   "cosponsor_count": 5,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-26",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5281 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1926",
+   "docket": "HD1031",
+   "court": 194,
+   "title": "An Act relative to tenant data privacy",
+   "url": "https://malegislature.gov/Bills/194/H1926",
+   "primary_sponsor": "Steven Owens",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-26",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5281 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1946",
+   "docket": "HD794",
+   "court": 194,
+   "title": "An Act to implement the recommendations of the special commission on facial recognition technology",
+   "url": "https://malegislature.gov/Bills/194/H1946",
+   "primary_sponsor": "Orlando Ramos",
+   "cosponsor_count": 14,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-23",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4640"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4640"
+    }
+   ],
+   "topics": [
+    "biometrics"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H1988",
+   "docket": "HD3826",
+   "court": 194,
+   "title": "An Act establishing a commission regarding the privacy of sensitive information in legal documents",
+   "url": "https://malegislature.gov/Bills/194/H1988",
+   "primary_sponsor": "Adam J. Scanlon",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-29",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 11/04/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-11-04",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 11/04/2025 from 01:00 PM-02:30 PM in A-1                                                                                                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-11-04",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 11/04/2025 from 01:00 PM-05:00 PM in A-1                                                                                                                        and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-03-26",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5281 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H2027",
+   "docket": "HD3788",
+   "court": 194,
+   "title": "An Act to protect electronic privacy",
+   "url": "https://malegislature.gov/Bills/194/H2027",
+   "primary_sponsor": "Erika Uyterhoeven",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-26",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5281 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H2195",
+   "docket": "HD4058",
+   "court": 194,
+   "title": "An Act to improve the quality of mental health services, and rights of patients, by providing for sufficient privacy",
+   "url": "https://malegislature.gov/Bills/194/H2195",
+   "primary_sponsor": "Michael S. Day",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Mental Health, Substance Use and Recovery"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-03",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/14/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-30",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5319 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H2236",
+   "docket": "HD2051",
+   "court": 194,
+   "title": "Resolve relative to children’s mental health in social media",
+   "url": "https://malegislature.gov/Bills/194/H2236",
+   "primary_sponsor": "Joshua Tarsky",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Mental Health, Substance Use and Recovery"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 06/30/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-30",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5319 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H2239",
+   "docket": "HD3824",
+   "court": 194,
+   "title": "An Act relative to ensuring the privacy of the residents living in sober homes",
+   "url": "https://malegislature.gov/Bills/194/H2239",
+   "primary_sponsor": "Andres X. Vargas",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Mental Health, Substance Use and Recovery"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-03",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/14/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-03-30",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5319 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H2687",
+   "docket": "HD4038",
+   "court": 194,
+   "title": "An Act relative to protecting Massachusetts residents against federal government surveillance",
+   "url": "https://malegislature.gov/Bills/194/H2687",
+   "primary_sponsor": "David M. Rogers",
+   "cosponsor_count": 4,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Public Safety and Homeland Security"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-09-11",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/25/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2026-04-23",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5322 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3093",
+   "docket": "HD3078",
+   "court": 194,
+   "title": "An Act relative to the electronic filing of certain forms used in property valuation",
+   "url": "https://malegislature.gov/Bills/194/H3093",
+   "primary_sponsor": "Carole A. Fiola",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-09",
+    "branch": "House",
+    "action": "Read second and ordered to a third reading"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Revenue"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-14",
+     "branch": "Joint",
+     "action": "Hearing canceled – new hearing TBD"
+    },
+    {
+     "date": "2025-10-28",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 11/07/2025 from 10:00 AM-02:00 PM in Gardner Auditorium"
+    },
+    {
+     "date": "2026-01-15",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling"
+    },
+    {
+     "date": "2026-02-09",
+     "branch": "House",
+     "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting"
+    },
+    {
+     "date": "2026-02-09",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2026-02-09",
+     "branch": "House",
+     "action": "Read second and ordered to a third reading"
+    }
+   ],
+   "topics": [
+    "court-tech"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3117",
+   "docket": "HD3663",
+   "court": 194,
+   "title": "An Act to support disaster response and broadband infrastructure affordability",
+   "url": "https://malegislature.gov/Bills/194/H3117",
+   "primary_sponsor": "Richard M. Haggerty",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-02",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5318"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Revenue"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-07",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/17/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-17",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/17/2025 from 10:00 AM-10:30 AM in A-2                                                                                                                                                              and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-01-20",
+     "branch": "House",
+     "action": "Reporting date extended to Friday, February 27, 2026"
+    },
+    {
+     "date": "2026-03-02",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-04-02",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5318"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3119",
+   "docket": "HD3675",
+   "court": 194,
+   "title": "An Act relative to taxation of equipment used to provide broadband communication services",
+   "url": "https://malegislature.gov/Bills/194/H3119",
+   "primary_sponsor": "Richard M. Haggerty",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-02",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5318"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Revenue"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-07",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/17/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-17",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/17/2025 from 10:00 AM-10:30 AM in A-2                                                                                                                                                              and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-01-20",
+     "branch": "House",
+     "action": "Reporting date extended to Friday, February 27, 2026"
+    },
+    {
+     "date": "2026-03-02",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-04-02",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5318"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3176",
+   "docket": "HD1244",
+   "court": 194,
+   "title": "An Act relative to the electronic filing of certain forms used in property valuation",
+   "url": "https://malegislature.gov/Bills/194/H3176",
+   "primary_sponsor": "William F. MacGregor",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-12",
+    "branch": "House",
+    "action": "Read second and ordered to a third reading"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Revenue"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-14",
+     "branch": "Joint",
+     "action": "Hearing canceled – new hearing TBD"
+    },
+    {
+     "date": "2025-10-28",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 11/07/2025 from 10:00 AM-02:00 PM in Gardner Auditorium"
+    },
+    {
+     "date": "2026-01-15",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Steering, Policy and Scheduling"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "House",
+     "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "House",
+     "action": "Read second and ordered to a third reading"
+    }
+   ],
+   "topics": [
+    "court-tech"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3259",
+   "docket": "HD355",
+   "court": 194,
+   "title": "An Act to establish a local community newspaper subscription tax credit",
+   "url": "https://malegislature.gov/Bills/194/H3259",
+   "primary_sponsor": "Jeffrey Rosario Turco",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": null,
+    "branch": "House",
+    "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Revenue"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-10-21",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/28/2025 from 01:00 PM-05:00 PM in B-2"
+    },
+    {
+     "date": "2026-01-27",
+     "branch": "House",
+     "action": "Reporting date extended to Friday, March 6, 2026"
+    },
+    {
+     "date": "2026-05-07",
+     "branch": "House",
+     "action": "Accompanied a study order, see  H5371 (under House Rule 27)"
+    },
+    {
+     "date": null,
+     "branch": "House",
+     "action": "Reported by committee to Clerk’s Office for processing, will accompany a study order"
+    }
+   ],
+   "topics": [
+    "platforms"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3470",
+   "docket": "HD3153",
+   "court": 194,
+   "title": "An Act protecting transportation network driver data privacy and integrity",
+   "url": "https://malegislature.gov/Bills/194/H3470",
+   "primary_sponsor": "Mark J. Cusack",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-06",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5323"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-04-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/06/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-08-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, December 3, 2025"
+    },
+    {
+     "date": "2025-12-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-04-06",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5323"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3478",
+   "docket": "HD1708",
+   "court": 194,
+   "title": "An Act to streamline broadband permitting and ensure equitable access to infrastructure",
+   "url": "https://malegislature.gov/Bills/194/H3478",
+   "primary_sponsor": "Kip A. Diggs",
+   "cosponsor_count": 4,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-03-25",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H5290"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-04-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/06/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-08-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, December 3, 2025"
+    },
+    {
+     "date": "2025-12-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-03-25",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H5290"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3510",
+   "docket": "HD1330",
+   "court": 194,
+   "title": "An Act relative to internet service provider data",
+   "url": "https://malegislature.gov/Bills/194/H3510",
+   "primary_sponsor": "Bradley H. Jones, Jr.",
+   "cosponsor_count": 5,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-06",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5323"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-04-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/06/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-08-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, December 3, 2025"
+    },
+    {
+     "date": "2025-12-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-04-06",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5323"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3527",
+   "docket": "HD2342",
+   "court": 194,
+   "title": "An Act preserving broadband service for low-income consumers",
+   "url": "https://malegislature.gov/Bills/194/H3527",
+   "primary_sponsor": "Rita A. Mendes",
+   "cosponsor_count": 25,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-06",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5323"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-04-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/06/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-08-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, December 3, 2025"
+    },
+    {
+     "date": "2025-12-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-04-06",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5323"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3546",
+   "docket": "HD822",
+   "court": 194,
+   "title": "An Act to establish standards for the pole attachment process to facilitate the construction of broadband networks",
+   "url": "https://malegislature.gov/Bills/194/H3546",
+   "primary_sponsor": "Angelo J. Puppolo, Jr.",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-03-25",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H5290"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-04-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/06/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-08-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, December 3, 2025"
+    },
+    {
+     "date": "2025-12-04",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-03-25",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H5290"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3749",
+   "docket": "HD2542",
+   "court": 194,
+   "title": "An Act relative to unmanned aerial systems",
+   "url": "https://malegislature.gov/Bills/194/H3749",
+   "primary_sponsor": "Brian W. Murray",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-02",
+    "branch": "House",
+    "action": "Accompanied a new draft, see H4546"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Transportation"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-07-10",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/22/2025 from 11:00 AM-01:00 PM in B-1"
+    },
+    {
+     "date": "2025-10-02",
+     "branch": "House",
+     "action": "Accompanied a new draft, see H4546"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H3755",
+   "docket": "HD1032",
+   "court": 194,
+   "title": "An Act establishing driver privacy protections",
+   "url": "https://malegislature.gov/Bills/194/H3755",
+   "primary_sponsor": "Steven Owens",
+   "cosponsor_count": 11,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-03-23",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "Referred to the committee on Transportation"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/07/2025 from 11:00 AM-01:00 PM in A-1"
+    },
+    {
+     "date": "2025-12-24",
+     "branch": "House",
+     "action": "Reporting date extended to Wednesday, March 18, 2026"
+    },
+    {
+     "date": "2026-03-23",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4229",
+   "docket": "HD4399",
+   "court": 194,
+   "title": "An Act protecting children from addictive social media feeds",
+   "url": "https://malegislature.gov/Bills/194/H4229",
+   "primary_sponsor": "William F. MacGregor",
+   "cosponsor_count": 1,
+   "filed": "2025-03-24",
+   "last_action": {
+    "date": "2026-02-12",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5071"
+   },
+   "history": [
+    {
+     "date": "2025-03-24",
+     "branch": "House",
+     "action": "Referred to the committee on House Rules"
+    },
+    {
+     "date": "2025-05-19",
+     "branch": "House",
+     "action": "Reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-06-23",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    },
+    {
+     "date": "2025-06-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-08",
+     "branch": "House",
+     "action": "Reporting date extended until Friday, November 14, 2025"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5071"
+    }
+   ],
+   "topics": [
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4405",
+   "docket": null,
+   "court": 194,
+   "title": "An Act relative to student and educator data privacy",
+   "url": "https://malegislature.gov/Bills/194/H4405",
+   "primary_sponsor": "Joint Committee on Education",
+   "cosponsor_count": 6,
+   "filed": "2025-08-18",
+   "last_action": {
+    "date": "2025-08-18",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-08-18",
+     "branch": "House",
+     "action": "Reported from the committee on Education"
+    },
+    {
+     "date": "2025-08-18",
+     "branch": "House",
+     "action": "New draft of H633"
+    },
+    {
+     "date": "2025-08-18",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4528",
+   "docket": "HD4904",
+   "court": 194,
+   "title": "Order relative to extending until Wednesday, November 12, 2025 the time within which the committee on Advanced Information Technology, the Internet, and Cybersecurity is authorized to report on current House documents",
+   "url": "https://malegislature.gov/Bills/194/H4528",
+   "primary_sponsor": "Tricia Farley-Bouvier",
+   "cosponsor_count": 1,
+   "filed": "2025-07-30",
+   "last_action": {
+    "date": "2025-07-30",
+    "branch": "House",
+    "action": "Adopted"
+   },
+   "history": [
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Referred to the committee on House Rules"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Committee reported ought to be adopted"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2025-07-30",
+     "branch": "House",
+     "action": "Adopted"
+    }
+   ],
+   "topics": [
+    "cybersecurity"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4546",
+   "docket": null,
+   "court": 194,
+   "title": "An Act relative to unmanned aerial systems",
+   "url": "https://malegislature.gov/Bills/194/H4546",
+   "primary_sponsor": "Joint Committee on Transportation",
+   "cosponsor_count": 2,
+   "filed": "2025-10-02",
+   "last_action": {
+    "date": "2025-10-02",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-10-02",
+     "branch": "House",
+     "action": "Reported from the committee on Transportation"
+    },
+    {
+     "date": "2025-10-02",
+     "branch": "House",
+     "action": "New draft of H3749"
+    },
+    {
+     "date": "2025-10-02",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4592",
+   "docket": "HD5216",
+   "court": 194,
+   "title": "Order relative to extending until Friday, November 14, 2025 the time within which the committee on Advanced Information Technology, the Internet and Cybersecurity is authorized to report on current House documents",
+   "url": "https://malegislature.gov/Bills/194/H4592",
+   "primary_sponsor": "Tricia Farley-Bouvier",
+   "cosponsor_count": 1,
+   "filed": "2025-10-08",
+   "last_action": {
+    "date": "2025-10-08",
+    "branch": "House",
+    "action": "Adopted"
+   },
+   "history": [
+    {
+     "date": "2025-10-08",
+     "branch": "House",
+     "action": "Referred to the committee on House Rules"
+    },
+    {
+     "date": "2025-10-08",
+     "branch": "House",
+     "action": "Committee reported ought to be adopted"
+    },
+    {
+     "date": "2025-10-08",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2025-10-08",
+     "branch": "House",
+     "action": "Adopted"
+    }
+   ],
+   "topics": [
+    "cybersecurity"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4634",
+   "docket": null,
+   "court": 194,
+   "title": "An Act to protect the privacy of 911 callers",
+   "url": "https://malegislature.gov/Bills/194/H4634",
+   "primary_sponsor": "Joint Committee on the Judiciary",
+   "cosponsor_count": 2,
+   "filed": "2025-10-23",
+   "last_action": {
+    "date": "2025-10-23",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Reported from the committee on The Judiciary"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "New draft of H1643"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4640",
+   "docket": null,
+   "court": 194,
+   "title": "An Act to implement the recommendations of the special commission on facial recognition technology",
+   "url": "https://malegislature.gov/Bills/194/H4640",
+   "primary_sponsor": "Joint Committee on the Judiciary",
+   "cosponsor_count": 15,
+   "filed": "2025-10-23",
+   "last_action": {
+    "date": "2025-10-23",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Reported from the committee on The Judiciary"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "New draft of H1946"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "biometrics"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4678",
+   "docket": null,
+   "court": 194,
+   "title": "authorizing the committee on Advanced Information Technology, the Internet and Cybersecurity to make an investigation and study of a certain House document concerning internet slander",
+   "url": "https://malegislature.gov/Bills/194/H4678",
+   "primary_sponsor": "Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+   "cosponsor_count": 0,
+   "filed": "2025-11-03",
+   "last_action": {
+    "date": "2025-11-03",
+    "branch": "House",
+    "action": "Discharged to the committee on House Rules"
+   },
+   "history": [
+    {
+     "date": "2025-11-03",
+     "branch": "House",
+     "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-11-03",
+     "branch": "House",
+     "action": "Accompanied by H73"
+    },
+    {
+     "date": "2025-11-03",
+     "branch": "House",
+     "action": "Order reported favorably by committee and referred to the committee on Joint Rules"
+    },
+    {
+     "date": "2025-11-03",
+     "branch": "House",
+     "action": "Discharged to the committee on House Rules"
+    }
+   ],
+   "topics": [
+    "cybersecurity"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4746",
+   "docket": null,
+   "court": 194,
+   "title": "An Act establishing the Massachusetts consumer data privacy act",
+   "url": "https://malegislature.gov/Bills/194/H4746",
+   "primary_sponsor": "Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+   "cosponsor_count": 114,
+   "filed": "2025-11-17",
+   "last_action": {
+    "date": "2025-11-17",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "New draft of H78, H80, H86, H96, H103 and H104"
+    },
+    {
+     "date": "2025-11-17",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H4807",
+   "docket": null,
+   "court": 194,
+   "title": "An Act relative to updating the security of personal information",
+   "url": "https://malegislature.gov/Bills/194/H4807",
+   "primary_sponsor": "Joint Committee on Consumer Protection and Professional Licensure",
+   "cosponsor_count": 5,
+   "filed": "2025-12-08",
+   "last_action": {
+    "date": "2025-12-08",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-12-08",
+     "branch": "House",
+     "action": "Reported from the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-12-08",
+     "branch": "House",
+     "action": "New draft of H358 and H461"
+    },
+    {
+     "date": "2025-12-08",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H5017",
+   "docket": null,
+   "court": 194,
+   "title": "An Act relative to telehealth and digital equity for patients",
+   "url": "https://malegislature.gov/Bills/194/H5017",
+   "primary_sponsor": "Joint Committee on Financial Services",
+   "cosponsor_count": 24,
+   "filed": "2026-02-05",
+   "last_action": {
+    "date": "2026-07-09",
+    "branch": "House",
+    "action": "Reporting date extended to Thursday, December 31, 2026"
+   },
+   "history": [
+    {
+     "date": "2026-02-05",
+     "branch": "House",
+     "action": "Reported from the committee on Financial Services"
+    },
+    {
+     "date": "2026-02-05",
+     "branch": "House",
+     "action": "New draft of H1130"
+    },
+    {
+     "date": "2026-02-05",
+     "branch": "House",
+     "action": "Reported favorably by committee and referred to the committee on Health Care Financing"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "House",
+     "action": "Reporting date extended to Thursday, December 31, 2026"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H5094",
+   "docket": null,
+   "court": 194,
+   "title": "An Act enhancing disclosure requirements for synthetic media in political advertising",
+   "url": "https://malegislature.gov/Bills/194/H5094",
+   "primary_sponsor": "House Committee on Ways and Means",
+   "cosponsor_count": 5,
+   "filed": "2026-02-11",
+   "last_action": {
+    "date": "2026-02-12",
+    "branch": "Senate",
+    "action": "Read; and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Reported from the committee on House Ways and Means"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Pending new draft of H846"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "New draft of H846"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Ordered to a third reading"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Read third"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Amendment 4 adopted"
+    },
+    {
+     "date": "2026-02-11",
+     "branch": "House",
+     "action": "Passed to be engrossed - 157 YEAS to 0 NAYS (See YEA and NAY No. 122)"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "Senate",
+     "action": "Read; and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H5222",
+   "docket": null,
+   "court": 194,
+   "title": "An Act relative to preventing algorithmic rent fixing in the rental housing market",
+   "url": "https://malegislature.gov/Bills/194/H5222",
+   "primary_sponsor": "Joint Committee on Housing",
+   "cosponsor_count": 8,
+   "filed": "2026-03-12",
+   "last_action": {
+    "date": "2026-03-12",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-03-12",
+     "branch": "House",
+     "action": "Reported from the committee on Housing"
+    },
+    {
+     "date": "2026-03-12",
+     "branch": "House",
+     "action": "New draft of H1564"
+    },
+    {
+     "date": "2026-03-12",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H5290",
+   "docket": null,
+   "court": 194,
+   "title": "An Act to streamline broadband permitting and ensure equitable access to infrastructure",
+   "url": "https://malegislature.gov/Bills/194/H5290",
+   "primary_sponsor": "Joint Committee on Telecommunications, Utilities and Energy",
+   "cosponsor_count": 7,
+   "filed": "2026-03-25",
+   "last_action": {
+    "date": "2026-03-25",
+    "branch": "House",
+    "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-03-25",
+     "branch": "House",
+     "action": "Reported from the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2026-03-25",
+     "branch": "House",
+     "action": "New draft of H3478 and H3546"
+    },
+    {
+     "date": "2026-03-25",
+     "branch": "House",
+     "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H5295",
+   "docket": "HD5696",
+   "court": 194,
+   "title": "An Act relative to regulation of minors on social media",
+   "url": "https://malegislature.gov/Bills/194/H5295",
+   "primary_sponsor": "Michael P. Kushmerek",
+   "cosponsor_count": 1,
+   "filed": "2026-02-26",
+   "last_action": {
+    "date": "2026-03-23",
+    "branch": "Senate",
+    "action": "Senate concurred"
+   },
+   "history": [
+    {
+     "date": "2026-02-26",
+     "branch": "House",
+     "action": "Referred to the committee on House Rules"
+    },
+    {
+     "date": "2026-03-09",
+     "branch": "House",
+     "action": "Reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2026-03-23",
+     "branch": "Senate",
+     "action": "Senate concurred"
+    }
+   ],
+   "topics": [
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H5472",
+   "docket": null,
+   "court": 194,
+   "title": "An Act establishing the Massachusetts consumer data privacy act",
+   "url": "https://malegislature.gov/Bills/194/H5472",
+   "primary_sponsor": "House Committee on Ways and Means",
+   "cosponsor_count": 0,
+   "filed": "2026-06-04",
+   "last_action": {
+    "date": "2026-06-04",
+    "branch": "House",
+    "action": "Published as amended, see H5479"
+   },
+   "history": [
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Text of an amendment, see S2619"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Published as amended, see H5479"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "H5479",
+   "docket": null,
+   "court": 194,
+   "title": "An Act establishing the Massachusetts consumer data privacy act",
+   "url": "https://malegislature.gov/Bills/194/H5479",
+   "primary_sponsor": null,
+   "cosponsor_count": 0,
+   "filed": "2026-06-04",
+   "last_action": {
+    "date": "2026-06-05",
+    "branch": "House",
+    "action": "See S2619"
+   },
+   "history": [
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "H5472, published as amended"
+    },
+    {
+     "date": "2026-06-05",
+     "branch": "House",
+     "action": "See S2619"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S29",
+   "docket": "SD495",
+   "court": 194,
+   "title": "An Act to establish the Massachusetts Data Privacy Act",
+   "url": "https://malegislature.gov/Bills/194/S29",
+   "primary_sponsor": "Cynthia Stone Creem",
+   "cosponsor_count": 6,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2516"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2516"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S30",
+   "docket": "SD1689",
+   "court": 194,
+   "title": "An Act protecting children from addictive social media feeds",
+   "url": "https://malegislature.gov/Bills/194/S30",
+   "primary_sponsor": "Cynthia Stone Creem",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-07-09",
+    "branch": "Senate",
+    "action": "New draft substituted, see S3164"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-06-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-07-24",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    },
+    {
+     "date": "2026-07-02",
+     "branch": "Senate",
+     "action": "Committee recommended ought to pass with an amendment, substituting a new draft, see S3164"
+    },
+    {
+     "date": "2026-07-02",
+     "branch": "Senate",
+     "action": "Order relative to subject matter adopted"
+    },
+    {
+     "date": "2026-07-02",
+     "branch": "Senate",
+     "action": "Placed in the Orders of the Day for Thursday, July 9, 2026"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Read second"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "New draft substituted, see S3164"
+    }
+   ],
+   "topics": [
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S33",
+   "docket": "SD2520",
+   "court": 194,
+   "title": "An Act establishing the Comprehensive Massachusetts Consumer Data Privacy Act",
+   "url": "https://malegislature.gov/Bills/194/S33",
+   "primary_sponsor": "William J. Driscoll, Jr.",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2516"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2516"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S35",
+   "docket": "SD838",
+   "court": 194,
+   "title": "An Act fostering artificial intelligence responsibility",
+   "url": "https://malegislature.gov/Bills/194/S35",
+   "primary_sponsor": "Dylan A. Fernandes",
+   "cosponsor_count": 7,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-16",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S36",
+   "docket": "SD1455",
+   "court": 194,
+   "title": "An Act to provide accountability in the use of biometric recognition technology and comprehensive enforcement",
+   "url": "https://malegislature.gov/Bills/194/S36",
+   "primary_sponsor": "Dylan A. Fernandes",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Accompanied S43"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Accompanied S43"
+    }
+   ],
+   "topics": [
+    "biometrics"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S37",
+   "docket": "SD1909",
+   "court": 194,
+   "title": "An Act promoting economic development with emerging artificial intelligence models and safety",
+   "url": "https://malegislature.gov/Bills/194/S37",
+   "primary_sponsor": "Barry R. Finegold",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-16",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2630"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2630"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S38",
+   "docket": "SD2301",
+   "court": 194,
+   "title": "Resolve establishing a special commission on blockchain and cryptocurrency technology",
+   "url": "https://malegislature.gov/Bills/194/S38",
+   "primary_sponsor": "Barry R. Finegold",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-20",
+    "branch": "Senate",
+    "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-06-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/10/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Accompanied by S40"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Resolve reported favorably by committee and referred to the committee on Rules of the two branches, acting concurrently"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Senate",
+     "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "crypto-fintech"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S39",
+   "docket": "SD2333",
+   "court": 194,
+   "title": "An Act protecting sensitive personal information from breaches and other cybersecurity incidents",
+   "url": "https://malegislature.gov/Bills/194/S39",
+   "primary_sponsor": "Barry R. Finegold",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Accompanied S49"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Accompanied S49"
+    }
+   ],
+   "topics": [
+    "privacy",
+    "cybersecurity"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S43",
+   "docket": "SD2204",
+   "court": 194,
+   "title": "An Act to protect personal biometric data",
+   "url": "https://malegislature.gov/Bills/194/S43",
+   "primary_sponsor": "Mark C. Montigny",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee as changed and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Accompanied by S36"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee as changed and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "biometrics"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S45",
+   "docket": "SD267",
+   "court": 194,
+   "title": "An Act establishing the Massachusetts Data Privacy Act",
+   "url": "https://malegislature.gov/Bills/194/S45",
+   "primary_sponsor": "Michael O. Moore",
+   "cosponsor_count": 6,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2516"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2516"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S46",
+   "docket": "SD268",
+   "court": 194,
+   "title": "An Act relative to the use of artificial intelligence and other software tools in healthcare decision-making",
+   "url": "https://malegislature.gov/Bills/194/S46",
+   "primary_sponsor": "Michael O. Moore",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-16",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2632"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2632"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S47",
+   "docket": "SD587",
+   "court": 194,
+   "title": "An Act relative to surveillance pricing in grocery stores",
+   "url": "https://malegislature.gov/Bills/194/S47",
+   "primary_sponsor": "Michael O. Moore",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2515"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2515"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S49",
+   "docket": "SD873",
+   "court": 194,
+   "title": "An Act relative to cybersecurity and artificial intelligence",
+   "url": "https://malegislature.gov/Bills/194/S49",
+   "primary_sponsor": "Michael O. Moore",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-24",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Accompanied by S39"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai",
+    "cybersecurity"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S51",
+   "docket": "SD1313",
+   "court": 194,
+   "title": "An Act relative to social media, algorithm accountability, and transparency",
+   "url": "https://malegislature.gov/Bills/194/S51",
+   "primary_sponsor": "John C. Velis",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-16",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai",
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S187",
+   "docket": "SD1559",
+   "court": 194,
+   "title": "An Act relative to protecting biometric information under the security breach law",
+   "url": "https://malegislature.gov/Bills/194/S187",
+   "primary_sponsor": "Michael J. Barrett",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-31",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-09-19",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/01/2025 from 10:00 AM-01:00 PM in B-2                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing location changed</span>"
+    },
+    {
+     "date": "2025-12-31",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "cybersecurity",
+    "biometrics"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S189",
+   "docket": "SD732",
+   "court": 194,
+   "title": "An Act relative to digital right to repair",
+   "url": "https://malegislature.gov/Bills/194/S189",
+   "primary_sponsor": "Michael D. Brady",
+   "cosponsor_count": 4,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-23",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S3062"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-09-19",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/01/2025 from 10:00 AM-01:00 PM in B-2                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing location changed</span>"
+    },
+    {
+     "date": "2026-01-08",
+     "branch": "Senate",
+     "action": "Reporting date extended to Thursday March 5, 2026"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Reporting date extended to Wednesday April 22, 2026"
+    },
+    {
+     "date": "2026-04-23",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S3062"
+    }
+   ],
+   "topics": [
+    "right-to-repair"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S197",
+   "docket": "SD501",
+   "court": 194,
+   "title": "An Act to protect safety and privacy by stopping the sale of location data",
+   "url": "https://malegislature.gov/Bills/194/S197",
+   "primary_sponsor": "Cynthia Stone Creem",
+   "cosponsor_count": 38,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee as changed and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-31",
+     "branch": "Senate",
+     "action": "Discharged to the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-03-31",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-03-31",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee as changed and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S243",
+   "docket": "SD2223",
+   "court": 194,
+   "title": "An Act requiring consumer notification for chatbot systems",
+   "url": "https://malegislature.gov/Bills/194/S243",
+   "primary_sponsor": "Barry R. Finegold",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-11-19",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-09-19",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/01/2025 from 10:00 AM-01:00 PM in B-2                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing location changed</span>"
+    },
+    {
+     "date": "2025-11-19",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S258",
+   "docket": "SD2264",
+   "court": 194,
+   "title": "An Act protecting the privacy of social care information",
+   "url": "https://malegislature.gov/Bills/194/S258",
+   "primary_sponsor": "Paul W. Mark",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-01-07",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2821"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-08-28",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/08/2025 from 10:00 AM-1:00 PM in A-2"
+    },
+    {
+     "date": "2026-01-07",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2821"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S259",
+   "docket": "SD500",
+   "court": 194,
+   "title": "An Act to protect consumers from hidden car subscription service fees",
+   "url": "https://malegislature.gov/Bills/194/S259",
+   "primary_sponsor": "Mark C. Montigny",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-08",
+    "branch": "Senate",
+    "action": "Accompanied a study order, see S2811"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-10-02",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/14/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-14",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/14/2025 from 10:00 AM-11:30 AM in A-2                                                                                                                                                            and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-12-08",
+     "branch": "Senate",
+     "action": "Accompanied a study order, see S2811"
+    }
+   ],
+   "topics": [
+    "platforms"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S260",
+   "docket": "SD519",
+   "court": 194,
+   "title": "An Act to protect the privacy of lottery winners",
+   "url": "https://malegislature.gov/Bills/194/S260",
+   "primary_sponsor": "Mark C. Montigny",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-30",
+    "branch": "Senate",
+    "action": "Accompanied a study order, see S2674"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-06-16",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 06/23/2025 from 10:00 AM-01:00 PM in A-1"
+    },
+    {
+     "date": "2025-10-30",
+     "branch": "Senate",
+     "action": "Accompanied a study order, see S2674"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S264",
+   "docket": "SD2592",
+   "court": 194,
+   "title": "An Act establishing protections for consumers interacting with artificial intelligence chatbots",
+   "url": "https://malegislature.gov/Bills/194/S264",
+   "primary_sponsor": "Mark C. Montigny",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-18",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-09-19",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/01/2025 from 10:00 AM-01:00 PM in B-2                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing location changed</span>"
+    },
+    {
+     "date": "2025-12-18",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S289",
+   "docket": "SD1894",
+   "court": 194,
+   "title": "An Act ensuring internet security and privacy",
+   "url": "https://malegislature.gov/Bills/194/S289",
+   "primary_sponsor": "Bruce E. Tarr",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-01-07",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-09-19",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/01/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/01/2025 from 10:00 AM-01:00 PM in B-2                                       and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing location changed</span>"
+    },
+    {
+     "date": "2026-01-07",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S301",
+   "docket": "SD2355",
+   "court": 194,
+   "title": "An Act advancing the economic development of the commonwealth through comprehensive data privacy",
+   "url": "https://malegislature.gov/Bills/194/S301",
+   "primary_sponsor": "Barry R. Finegold",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-18",
+    "branch": "Senate",
+    "action": "Accompanied a study order (under JR10), see S2885"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Economic Development and Emerging Technologies"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-10-31",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 11/13/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-11-13",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 11/13/2025 from 11:00 AM-02:00 PM in A-2                                                                                                                                                                         and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-12-18",
+     "branch": "Senate",
+     "action": "Accompanied a study order (under JR10), see S2885"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S364",
+   "docket": "SD2360",
+   "court": 194,
+   "title": "An Act establishing privacy standards for student and educator data",
+   "url": "https://malegislature.gov/Bills/194/S364",
+   "primary_sponsor": "Barry R. Finegold",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-07-24",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Education"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-05-02",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/12/2025 from 01:00 PM-05:00 PM in A-2"
+    },
+    {
+     "date": "2025-07-24",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S463",
+   "docket": "SD2285",
+   "court": 194,
+   "title": "An Act regulating screen time and technology privacy in early and K-12 education",
+   "url": "https://malegislature.gov/Bills/194/S463",
+   "primary_sponsor": "John C. Velis",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-07-10",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2549"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Education"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-06-06",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 06/17/2025 from 01:00 PM-05:00 PM in B-2"
+    },
+    {
+     "date": "2025-07-10",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2549"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S480",
+   "docket": "SD2384",
+   "court": 194,
+   "title": "An Act promoting infection prevention and privacy for residents of nursing homes",
+   "url": "https://malegislature.gov/Bills/194/S480",
+   "primary_sponsor": "Joan B. Lovely",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-18",
+    "branch": "Senate",
+    "action": "Accompanied a study order (under JR10), see S2887"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Elder Affairs"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-06-27",
+     "branch": "Joint",
+     "action": "Referred, pursuant to an order adopted by the two branches, to the committee on Aging and Independence"
+    },
+    {
+     "date": "2025-09-03",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/16/2025 from 10:00 AM-1:00 PM in A-2"
+    },
+    {
+     "date": "2025-12-18",
+     "branch": "Senate",
+     "action": "Accompanied a study order (under JR10), see S2887"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S763",
+   "docket": "SD945",
+   "court": 194,
+   "title": "An Act relative to telehealth and digital equity for patients",
+   "url": "https://malegislature.gov/Bills/194/S763",
+   "primary_sponsor": "Adam Gómez",
+   "cosponsor_count": 11,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-01",
+    "branch": "Senate",
+    "action": "Accompanied a study order, see S3038"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Financial Services"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-10-02",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/14/2025 from 10:30 AM-01:00 PM in A-1"
+    },
+    {
+     "date": "2025-12-15",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Health Care Financing"
+    },
+    {
+     "date": "2026-03-19",
+     "branch": "Senate",
+     "action": "Reporting date extended to Tuesday March 31, 2026"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Accompanied a study order, see S3038"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S804",
+   "docket": "SD2006",
+   "court": 194,
+   "title": "An Act providing for regulation and reporting requirements for qualifying virtual currency kiosk operators",
+   "url": "https://malegislature.gov/Bills/194/S804",
+   "primary_sponsor": "Patrick M. O'Connor",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-08",
+    "branch": "Senate",
+    "action": "Accompanied a study order, see S3049"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Financial Services"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/07/2025 from 10:30 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-07",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/07/2025 from 10:30 AM-01:10 PM in A-2                                                                                                                                                    and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Reporting date extended to Monday April 6, 2026"
+    },
+    {
+     "date": "2026-04-08",
+     "branch": "Senate",
+     "action": "Accompanied a study order, see S3049"
+    }
+   ],
+   "topics": [
+    "crypto-fintech"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S994",
+   "docket": "SD1607",
+   "court": 194,
+   "title": "An Act prohibiting algorithmic rent setting",
+   "url": "https://malegislature.gov/Bills/194/S994",
+   "primary_sponsor": "Cindy F. Friedman",
+   "cosponsor_count": 4,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-03-12",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2983"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Housing"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-11-07",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 11/19/2025 from 11:00 AM-05:00 PM in Gardner Auditorium"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "Senate",
+     "action": "Reporting date extended to Friday February 27, 2026"
+    },
+    {
+     "date": "2026-03-12",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2983"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1016",
+   "docket": "SD1203",
+   "court": 194,
+   "title": "An Act relative to preventing algorithmic rent fixing in the rental housing market",
+   "url": "https://malegislature.gov/Bills/194/S1016",
+   "primary_sponsor": "Michael O. Moore",
+   "cosponsor_count": 5,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-03-12",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S2983"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Housing"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-11-07",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 11/19/2025 from 11:00 AM-05:00 PM in Gardner Auditorium"
+    },
+    {
+     "date": "2026-02-12",
+     "branch": "Senate",
+     "action": "Reporting date extended to Friday February 27, 2026"
+    },
+    {
+     "date": "2026-03-12",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S2983"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1053",
+   "docket": "SD503",
+   "court": 194,
+   "title": "An Act to implement the recommendations of the special commission on facial recognition technology",
+   "url": "https://malegislature.gov/Bills/194/S1053",
+   "primary_sponsor": "Cynthia Stone Creem",
+   "cosponsor_count": 8,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-10-20",
+    "branch": "Joint",
+    "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    }
+   ],
+   "topics": [
+    "biometrics"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1108",
+   "docket": "SD2226",
+   "court": 194,
+   "title": "An Act prohibiting the malicious doxing of personal information",
+   "url": "https://malegislature.gov/Bills/194/S1108",
+   "primary_sponsor": "Barry R. Finegold",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-18",
+    "branch": "Senate",
+    "action": "Accompanied a study order (under JR10), see S2886"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2025-12-18",
+     "branch": "Senate",
+     "action": "Accompanied a study order (under JR10), see S2886"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1156",
+   "docket": "SD1242",
+   "court": 194,
+   "title": "An Act to protect the privacy of 911 callers",
+   "url": "https://malegislature.gov/Bills/194/S1156",
+   "primary_sponsor": "Jason M. Lewis",
+   "cosponsor_count": 5,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-02-05",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on The Judiciary"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-07-15",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2                                                                                                                      and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-10-20",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2"
+    },
+    {
+     "date": "2026-02-05",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1532",
+   "docket": "SD2046",
+   "court": 194,
+   "title": "An Act relative to patient identity and privacy protection in waiting rooms",
+   "url": "https://malegislature.gov/Bills/194/S1532",
+   "primary_sponsor": "Paul R. Feeney",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-01-07",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Rules"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Public Health"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-06-16",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 06/23/2025 from 09:00 AM-01:00 PM in B-1"
+    },
+    {
+     "date": "2026-01-07",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Rules"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1636",
+   "docket": "SD2288",
+   "court": 194,
+   "title": "An Act ensuring safer and secure communications with radiation limits through the Massachusetts Broadband Institute",
+   "url": "https://malegislature.gov/Bills/194/S1636",
+   "primary_sponsor": "John C. Velis",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-18",
+    "branch": "Senate",
+    "action": "Accompanied a study order (under JR10), see S2888"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Public Health"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-07-14",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 07/14/2025 from 01:00 PM-06:05 PM in A-1                                                                                                    and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-12-18",
+     "branch": "Senate",
+     "action": "Accompanied a study order (under JR10), see S2888"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1679",
+   "docket": "SD1471",
+   "court": 194,
+   "title": "An Act relative to protecting personal data in ammunition transactions",
+   "url": "https://malegislature.gov/Bills/194/S1679",
+   "primary_sponsor": "Peter J. Durant",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-04",
+    "branch": "Senate",
+    "action": "Accompanied a study order, see S2798"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Public Safety and Homeland Security"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium"
+    },
+    {
+     "date": "2025-10-22",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium                                                               and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-10-27",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium                                                               and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to include Virtual</span>"
+    },
+    {
+     "date": "2025-10-31",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/31/2025 from 11:30 AM-05:00 PM in Gardner Auditorium                                                               and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2025-12-04",
+     "branch": "Senate",
+     "action": "Accompanied a study order, see S2798"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1731",
+   "docket": "SD2424",
+   "court": 194,
+   "title": "An Act to promote transparency of facial recognition and driver's license photos",
+   "url": "https://malegislature.gov/Bills/194/S1731",
+   "primary_sponsor": "Mark C. Montigny",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-04",
+    "branch": "Senate",
+    "action": "Accompanied a study order, see S2798"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Public Safety and Homeland Security"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-08-26",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/10/2025 from 1:00 PM-5:00 PM in A-2"
+    },
+    {
+     "date": "2025-12-04",
+     "branch": "Senate",
+     "action": "Accompanied a study order, see S2798"
+    }
+   ],
+   "topics": [
+    "biometrics"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1734",
+   "docket": "SD106",
+   "court": 194,
+   "title": "An Act relative to the use of unmanned aerial systems",
+   "url": "https://malegislature.gov/Bills/194/S1734",
+   "primary_sponsor": "Michael O. Moore",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-01-15",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Public Safety and Homeland Security"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-08-26",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 09/10/2025 from 1:00 PM-5:00 PM in A-2"
+    },
+    {
+     "date": "2026-01-15",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1965",
+   "docket": "SD2546",
+   "court": 194,
+   "title": "An Act to support disaster response and broadband infrastructure affordability",
+   "url": "https://malegislature.gov/Bills/194/S1965",
+   "primary_sponsor": "William J. Driscoll, Jr.",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-07-23",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5596"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Revenue"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-10-07",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/17/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-17",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/17/2025 from 10:00 AM-10:30 AM in A-2                                                                                                                                                              and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Reporting date extended to Thursday June 25, 2026"
+    },
+    {
+     "date": "2026-07-23",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5596"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S1996",
+   "docket": "SD1856",
+   "court": 194,
+   "title": "An Act relative to taxation of equipment used to provide broadband communication services",
+   "url": "https://malegislature.gov/Bills/194/S1996",
+   "primary_sponsor": "Paul R. Feeney",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-07-23",
+    "branch": "House",
+    "action": "Accompanied a study order, see H5596"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Revenue"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-10-07",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 10/17/2025 from 10:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-10-17",
+     "branch": "Joint",
+     "action": "Hearing rescheduled to 10/17/2025 from 10:00 AM-10:30 AM in A-2                                                                                                                                                              and Virtual<br> <span style=\"color: blue; font-style: italic;\">Hearing updated to New End Time</span>"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Reporting date extended to Thursday June 25, 2026"
+    },
+    {
+     "date": "2026-07-23",
+     "branch": "House",
+     "action": "Accompanied a study order, see H5596"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2133",
+   "docket": "SD1678",
+   "court": 194,
+   "title": "An Act protecting the privacy of library user data",
+   "url": "https://malegislature.gov/Bills/194/S2133",
+   "primary_sponsor": "James B. Eldridge",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-01-29",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Rules"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on State Administration and Regulatory Oversight"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-06-18",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 06/24/2025 from 10:00 AM-01:00 PM in A-1"
+    },
+    {
+     "date": "2025-12-24",
+     "branch": "Senate",
+     "action": "Reporting date extended to Saturday January 31, 2026"
+    },
+    {
+     "date": "2026-01-29",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Rules"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2259",
+   "docket": "SD1491",
+   "court": 194,
+   "title": "An Act protecting transportation network driver data privacy and integrity",
+   "url": "https://malegislature.gov/Bills/194/S2259",
+   "primary_sponsor": "John J. Cronin",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-04",
+    "branch": "Senate",
+    "action": "Accompanied a study order, see S2774"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-04-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/06/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-12-04",
+     "branch": "Senate",
+     "action": "Accompanied a study order, see S2774"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2285",
+   "docket": "SD975",
+   "court": 194,
+   "title": "An Act to establish standards for the pole attachment process to facilitate the construction of broadband networks",
+   "url": "https://malegislature.gov/Bills/194/S2285",
+   "primary_sponsor": "Adam Gómez",
+   "cosponsor_count": 3,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-15",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-04-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/06/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-12-15",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2318",
+   "docket": "SD1200",
+   "court": 194,
+   "title": "An Act preserving broadband service for low-income consumers",
+   "url": "https://malegislature.gov/Bills/194/S2318",
+   "primary_sponsor": "Pavel M. Payano",
+   "cosponsor_count": 8,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2025-12-11",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Telecommunications, Utilities and Energy"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-04-30",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 05/06/2025 from 11:00 AM-01:00 PM in A-2"
+    },
+    {
+     "date": "2025-12-11",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "broadband"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2438",
+   "docket": "SD509",
+   "court": 194,
+   "title": "An Act relative to unmanned aerial systems",
+   "url": "https://malegislature.gov/Bills/194/S2438",
+   "primary_sponsor": "Michael F. Rush",
+   "cosponsor_count": 1,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-01",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S3008"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Transportation"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-07-10",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/22/2025 from 11:00 AM-01:00 PM in B-1"
+    },
+    {
+     "date": "2026-02-19",
+     "branch": "Senate",
+     "action": "Reporting date extended to Tuesday March 31, 2026"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S3008"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2454",
+   "docket": "SD2571",
+   "court": 194,
+   "title": "An Act relative to unmanned aerial vehicles in the commonwealth",
+   "url": "https://malegislature.gov/Bills/194/S2454",
+   "primary_sponsor": "John C. Velis",
+   "cosponsor_count": 2,
+   "filed": "2025-02-27",
+   "last_action": {
+    "date": "2026-04-01",
+    "branch": "Senate",
+    "action": "Accompanied a new draft, see S3008"
+   },
+   "history": [
+    {
+     "date": "2025-02-27",
+     "branch": "Senate",
+     "action": "Referred to the committee on Transportation"
+    },
+    {
+     "date": "2025-02-27",
+     "branch": "House",
+     "action": "House concurred"
+    },
+    {
+     "date": "2025-07-10",
+     "branch": "Joint",
+     "action": "Hearing scheduled for 07/22/2025 from 11:00 AM-01:00 PM in B-1"
+    },
+    {
+     "date": "2026-02-19",
+     "branch": "Senate",
+     "action": "Reporting date extended to Tuesday March 31, 2026"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Accompanied a new draft, see S3008"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2515",
+   "docket": null,
+   "court": 194,
+   "title": "An Act relative to surveillance pricing in grocery stores",
+   "url": "https://malegislature.gov/Bills/194/S2515",
+   "primary_sponsor": "Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+   "cosponsor_count": 1,
+   "filed": "2025-05-12",
+   "last_action": {
+    "date": "2025-05-12",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "New draft of S47"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2516",
+   "docket": null,
+   "court": 194,
+   "title": "An Act establishing the Massachusetts data privacy act",
+   "url": "https://malegislature.gov/Bills/194/S2516",
+   "primary_sponsor": "Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+   "cosponsor_count": 9,
+   "filed": "2025-05-12",
+   "last_action": {
+    "date": "2025-09-25",
+    "branch": "Senate",
+    "action": "New draft substituted, see S2608"
+   },
+   "history": [
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "New draft of S29, S33 and S45"
+    },
+    {
+     "date": "2025-05-12",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    },
+    {
+     "date": "2025-09-18",
+     "branch": "Senate",
+     "action": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2608"
+    },
+    {
+     "date": "2025-09-18",
+     "branch": "Senate",
+     "action": "Order relative to subject matter adopted"
+    },
+    {
+     "date": "2025-09-18",
+     "branch": "Senate",
+     "action": "Placed in the Orders of the Day for Thursday, September 25, 2025"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Read second"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "New draft substituted, see S2608"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2608",
+   "docket": null,
+   "court": 194,
+   "title": "An Act establishing the Massachusetts data privacy act",
+   "url": "https://malegislature.gov/Bills/194/S2608",
+   "primary_sponsor": "Senate Committee on Ways and Means",
+   "cosponsor_count": 9,
+   "filed": "2025-09-18",
+   "last_action": {
+    "date": "2025-09-25",
+    "branch": "Senate",
+    "action": "Reprinted, as amended, see S2619"
+   },
+   "history": [
+    {
+     "date": "2025-09-18",
+     "branch": "Senate",
+     "action": "Reported from the committee on Senate Ways and Means"
+    },
+    {
+     "date": "2025-09-18",
+     "branch": "Senate",
+     "action": "Recommended new draft for S2516"
+    },
+    {
+     "date": "2025-09-18",
+     "branch": "Senate",
+     "action": "Order relative to subject matter adopted"
+    },
+    {
+     "date": "2025-09-18",
+     "branch": "Senate",
+     "action": "Placed in the Orders of the Day for Thursday, September 25, 2025"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #2 (Finegold) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #3 (Eldridge) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #6 (Fernandes) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #17 (Keenan) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #21 (Rush) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #26 (Cronin) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #27 (Cronin) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #31 (Cronin) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #18 (Payano) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #44 (Montigny) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #46 (Driscoll) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #47 (Driscoll) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #48 (Driscoll) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #51 (Cronin) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #57 (Cronin) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #58 (Driscoll) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #42 (Rausch) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #52 (Rausch) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #4 (Creem) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #14 (Lewis) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #24 (Friedman) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #12 (Mark) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #36 (Fernandes) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #16 (Tarr) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #20 (Tarr) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #34 (Tarr) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #35 (Tarr) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #37 (Tarr) rejected"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #49 (Tarr) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Amendment #50 (Rodrigues) adopted"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Substituted as a new draft for S2516"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Ordered to a third reading"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Read third"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Reprinted, as amended, see S2619"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2618",
+   "docket": null,
+   "court": 194,
+   "title": "Establishing privacy standards for student and educator data",
+   "url": "https://malegislature.gov/Bills/194/S2618",
+   "primary_sponsor": "Barry R. Finegold",
+   "cosponsor_count": 3,
+   "filed": null,
+   "last_action": null,
+   "history": [],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2619",
+   "docket": null,
+   "court": 194,
+   "title": "An Act establishing the Massachusetts data privacy act",
+   "url": "https://malegislature.gov/Bills/194/S2619",
+   "primary_sponsor": null,
+   "cosponsor_count": 9,
+   "filed": "2025-09-25",
+   "last_action": {
+    "date": "2026-06-17",
+    "branch": "House",
+    "action": "Committee of conference appointed - (M. Moran-Farley-Bouvier-Vieira), in concurrence"
+   },
+   "history": [
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "S2608, reprinted as amended"
+    },
+    {
+     "date": "2025-09-25",
+     "branch": "Senate",
+     "action": "Passed to be engrossed -see Roll Call #71 (Yeas 40 to Nays 0)"
+    },
+    {
+     "date": "2025-09-29",
+     "branch": "House",
+     "action": "Read; and referred to the committee on House Ways and Means"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Committee recommended ought to pass with an amendment, striking out all after the enacting clause and inserting the text of H5472, and referred to the committee on House Steering, Policy and Scheduling"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Read second, amended (as recommended by the committee on House Ways and Means)"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Ordered to a third reading"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Read third"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Consolidated amendment A adopted - 146 YEAS to 0 NAYS (See YEA and NAY No. 207)"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Text of H5472 amended, published as H5479"
+    },
+    {
+     "date": "2026-06-04",
+     "branch": "House",
+     "action": "Passed to be engrossed - 146 YEAS to 0 NAYS (See YEA and NAY No. 208)"
+    },
+    {
+     "date": "2026-06-11",
+     "branch": "Senate",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2026-06-11",
+     "branch": "Senate",
+     "action": "Senate NON-concurred in the House amendment"
+    },
+    {
+     "date": "2026-06-11",
+     "branch": "Senate",
+     "action": "Committee of conference appointed (Creem-Finegold-O'Connor)"
+    },
+    {
+     "date": "2026-06-17",
+     "branch": "House",
+     "action": "Rules suspended"
+    },
+    {
+     "date": "2026-06-17",
+     "branch": "House",
+     "action": "House insisted on its amendment"
+    },
+    {
+     "date": "2026-06-17",
+     "branch": "House",
+     "action": "Committee of conference appointed - (M. Moran-Farley-Bouvier-Vieira), in concurrence"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2630",
+   "docket": null,
+   "court": 194,
+   "title": "promoting economic development with emerging artificial intelligence models and safety",
+   "url": "https://malegislature.gov/Bills/194/S2630",
+   "primary_sponsor": "Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+   "cosponsor_count": 1,
+   "filed": "2025-10-16",
+   "last_action": {
+    "date": "2025-10-16",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "New draft of S37"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2632",
+   "docket": null,
+   "court": 194,
+   "title": "An Act relative to the use of artificial intelligence and other software tools in healthcare decision-making",
+   "url": "https://malegislature.gov/Bills/194/S2632",
+   "primary_sponsor": "Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+   "cosponsor_count": 2,
+   "filed": "2025-10-16",
+   "last_action": {
+    "date": "2026-04-02",
+    "branch": "Senate",
+    "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "New draft of S46"
+    },
+    {
+     "date": "2025-10-16",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Health Care Financing"
+    },
+    {
+     "date": "2026-03-19",
+     "branch": "Senate",
+     "action": "Reporting date extended to Tuesday March 31, 2026"
+    },
+    {
+     "date": "2026-04-02",
+     "branch": "Senate",
+     "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2634",
+   "docket": null,
+   "court": 194,
+   "title": "Order relative to authorizing the joint committee on Advanced Information Technology, the Internet and Cybersecurity to make an investigation and study of certain current Senate documents relative to advanced information technology, the internet and cybersecurity matters",
+   "url": "https://malegislature.gov/Bills/194/S2634",
+   "primary_sponsor": "Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+   "cosponsor_count": 0,
+   "filed": "2025-10-09",
+   "last_action": {
+    "date": "2025-10-23",
+    "branch": "Senate",
+    "action": "Discharged to the committee on Senate Rules"
+   },
+   "history": [
+    {
+     "date": "2025-10-09",
+     "branch": "Senate",
+     "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity"
+    },
+    {
+     "date": "2025-10-09",
+     "branch": "Senate",
+     "action": "Accompanied by S32 and S42"
+    },
+    {
+     "date": "2025-10-09",
+     "branch": "Senate",
+     "action": "Order reported favorably by committee and referred to the committee on Rules of the two branches, acting concurrently"
+    },
+    {
+     "date": "2025-10-23",
+     "branch": "Senate",
+     "action": "Discharged to the committee on Senate Rules"
+    }
+   ],
+   "topics": [
+    "cybersecurity"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2821",
+   "docket": null,
+   "court": 194,
+   "title": "An Act protecting the privacy of social care information.",
+   "url": "https://malegislature.gov/Bills/194/S2821",
+   "primary_sponsor": "Joint Committee on Consumer Protection and Professional Licensure",
+   "cosponsor_count": 2,
+   "filed": "2026-01-07",
+   "last_action": {
+    "date": "2026-01-07",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-01-07",
+     "branch": "Senate",
+     "action": "Reported from the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2026-01-07",
+     "branch": "Senate",
+     "action": "New draft of S258"
+    },
+    {
+     "date": "2026-01-07",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "privacy"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S2983",
+   "docket": null,
+   "court": 194,
+   "title": "An Act prohibiting algorithmic rent setting",
+   "url": "https://malegislature.gov/Bills/194/S2983",
+   "primary_sponsor": "Joint Committee on Housing",
+   "cosponsor_count": 4,
+   "filed": "2026-03-12",
+   "last_action": {
+    "date": "2026-03-12",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-03-12",
+     "branch": "Senate",
+     "action": "Reported from the committee on Housing"
+    },
+    {
+     "date": "2026-03-12",
+     "branch": "Senate",
+     "action": "New draft of S994 and S1016"
+    },
+    {
+     "date": "2026-03-12",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3008",
+   "docket": null,
+   "court": 194,
+   "title": "relative to unmanned aerial vehicles in the commonwealth",
+   "url": "https://malegislature.gov/Bills/194/S3008",
+   "primary_sponsor": "Joint Committee on Transportation",
+   "cosponsor_count": 3,
+   "filed": "2026-04-01",
+   "last_action": {
+    "date": "2026-04-01",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Reported from the committee on Transportation"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "New draft of S2438 and S2454"
+    },
+    {
+     "date": "2026-04-01",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "surveillance"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3048",
+   "docket": null,
+   "court": 194,
+   "title": "An Act to stop cryptocurrency ATM misuse (\"SCAM\" Act)",
+   "url": "https://malegislature.gov/Bills/194/S3048",
+   "primary_sponsor": "Joint Committee on Financial Services",
+   "cosponsor_count": 16,
+   "filed": "2026-04-15",
+   "last_action": {
+    "date": "2026-04-15",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-04-15",
+     "branch": "Senate",
+     "action": "Reported from the committee on Financial Services"
+    },
+    {
+     "date": "2026-04-15",
+     "branch": "Senate",
+     "action": "New draft of S707 and S757"
+    },
+    {
+     "date": "2026-04-15",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "crypto-fintech"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3049",
+   "docket": null,
+   "court": 194,
+   "title": "Order relative to authorizing the joint committee on Financial Services to make an investigation and study of a certain current Senate document relative to provide regulation and reporting requirements for qualifying virtual currency kiosk operators.",
+   "url": "https://malegislature.gov/Bills/194/S3049",
+   "primary_sponsor": "Joint Committee on Financial Services",
+   "cosponsor_count": 0,
+   "filed": "2026-04-08",
+   "last_action": {
+    "date": "2026-04-13",
+    "branch": "Senate",
+    "action": "Discharged to the committee on Senate Rules"
+   },
+   "history": [
+    {
+     "date": "2026-04-08",
+     "branch": "Senate",
+     "action": "Reported from the committee on Financial Services"
+    },
+    {
+     "date": "2026-04-08",
+     "branch": "Senate",
+     "action": "Accompanied by S804"
+    },
+    {
+     "date": "2026-04-08",
+     "branch": "Senate",
+     "action": "Order reported favorably by committee and referred to the committee on Rules of the two branches, acting concurrently"
+    },
+    {
+     "date": "2026-04-13",
+     "branch": "Senate",
+     "action": "Discharged to the committee on Senate Rules"
+    }
+   ],
+   "topics": [
+    "crypto-fintech"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3062",
+   "docket": null,
+   "court": 194,
+   "title": "An Act relative to digital right to repair",
+   "url": "https://malegislature.gov/Bills/194/S3062",
+   "primary_sponsor": "Joint Committee on Consumer Protection and Professional Licensure",
+   "cosponsor_count": 4,
+   "filed": "2026-04-23",
+   "last_action": {
+    "date": "2026-04-23",
+    "branch": "Senate",
+    "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-04-23",
+     "branch": "Senate",
+     "action": "Reported from the committee on Consumer Protection and Professional Licensure"
+    },
+    {
+     "date": "2026-04-23",
+     "branch": "Senate",
+     "action": "New draft of S189"
+    },
+    {
+     "date": "2026-04-23",
+     "branch": "Senate",
+     "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means"
+    }
+   ],
+   "topics": [
+    "right-to-repair"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3164",
+   "docket": null,
+   "court": 194,
+   "title": "An Act protecting children from addictive social media feeds",
+   "url": "https://malegislature.gov/Bills/194/S3164",
+   "primary_sponsor": "Senate Committee on Ways and Means",
+   "cosponsor_count": 1,
+   "filed": "2026-07-02",
+   "last_action": {
+    "date": "2026-07-09",
+    "branch": "Senate",
+    "action": "Reprinted, as amended, see S3175"
+   },
+   "history": [
+    {
+     "date": "2026-07-02",
+     "branch": "Senate",
+     "action": "Reported from the committee on Senate Ways and Means"
+    },
+    {
+     "date": "2026-07-02",
+     "branch": "Senate",
+     "action": "Recommended new draft for S30"
+    },
+    {
+     "date": "2026-07-02",
+     "branch": "Senate",
+     "action": "Order relative to subject matter adopted"
+    },
+    {
+     "date": "2026-07-02",
+     "branch": "Senate",
+     "action": "Placed in the Orders of the Day for Thursday, July 9, 2026"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #2 (Payano) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #5 (Keenan) rejected"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #6 (Keenan) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #7 (Keenan) rejected"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #8 (Keenan) rejected"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #9 (Friedman) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #18 (Fernandes) rejected"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #19 (Fernandes) rejected"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #21 (Finegold) rejected"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #24 (Kennedy) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #25 (Kennedy) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #27 (Brownsberger) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #29 (Brownsberger) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #3 (Edwards) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #4 (Edwards) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #16 (Tarr) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #31 (Velis) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Amendment #11 (Rodrigues) adopted"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Substituted, as amended, for S30"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Ordered to a third reading"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Read third"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Reprinted, as amended, see S3175"
+    }
+   ],
+   "topics": [
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3175",
+   "docket": null,
+   "court": 194,
+   "title": "An Act protecting children from addictive social media feeds",
+   "url": "https://malegislature.gov/Bills/194/S3175",
+   "primary_sponsor": null,
+   "cosponsor_count": 1,
+   "filed": "2026-07-09",
+   "last_action": {
+    "date": "2026-07-15",
+    "branch": "House",
+    "action": "Read; and referred to the committee on House Ways and Means"
+   },
+   "history": [
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "S3164 reprinted, as amended"
+    },
+    {
+     "date": "2026-07-09",
+     "branch": "Senate",
+     "action": "Passed to be engrossed -see Roll Call #206 (Yeas 38 to Nays 2)"
+    },
+    {
+     "date": "2026-07-15",
+     "branch": "House",
+     "action": "Read; and referred to the committee on House Ways and Means"
+    }
+   ],
+   "topics": [
+    "kids-online"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3206",
+   "docket": null,
+   "court": 194,
+   "title": "Artificial Intelligence in Healthcare Decision Making",
+   "url": "https://malegislature.gov/Bills/194/S3206",
+   "primary_sponsor": "Michael O. Moore",
+   "cosponsor_count": 4,
+   "filed": "2026-07-23",
+   "last_action": {
+    "date": "2026-07-23",
+    "branch": "Senate",
+    "action": "See S3178"
+   },
+   "history": [
+    {
+     "date": "2026-07-23",
+     "branch": "Senate",
+     "action": "See S3178"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3208",
+   "docket": null,
+   "court": 194,
+   "title": "Consumer Right to Repair",
+   "url": "https://malegislature.gov/Bills/194/S3208",
+   "primary_sponsor": "William N. Brownsberger",
+   "cosponsor_count": 6,
+   "filed": "2026-07-23",
+   "last_action": {
+    "date": "2026-07-23",
+    "branch": "Senate",
+    "action": "See S3178"
+   },
+   "history": [
+    {
+     "date": "2026-07-23",
+     "branch": "Senate",
+     "action": "See S3178"
+    }
+   ],
+   "topics": [
+    "right-to-repair"
+   ],
+   "review": "candidate",
+   "summary": null
+  },
+  {
+   "bill": "S3211",
+   "docket": null,
+   "court": 194,
+   "title": "Fostering artificial intelligence responsibility",
+   "url": "https://malegislature.gov/Bills/194/S3211",
+   "primary_sponsor": "Dylan A. Fernandes",
+   "cosponsor_count": 1,
+   "filed": "2026-07-23",
+   "last_action": {
+    "date": "2026-07-23",
+    "branch": "Senate",
+    "action": "See S3178"
+   },
+   "history": [
+    {
+     "date": "2026-07-23",
+     "branch": "Senate",
+     "action": "See S3178"
+    }
+   ],
+   "topics": [
+    "ai"
+   ],
+   "review": "candidate",
+   "summary": null
+  }
+ ]
+}
