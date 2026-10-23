@@ -54,6 +54,36 @@ class Records(unittest.TestCase):
         r["summary"] = {"text": "Does x.", "written_by": "a", "reviewed_by": "b", "reviewed_on": "2026-10-20"}
         self.assertTrue(any("only confirmed" in p for p in validate.check_bill(r, set(TOPICS))))
 
+    def test_summary_at_120_words_is_allowed(self):
+        r = records.record(
+            194, {"BillNumber": "H101", "Title": "x"},
+            DETAIL, ACTIONS, ["ai"], "confirmed"
+        )
+        r["summary"] = {
+            "text": "word " * 119 + "word",
+            "written_by": "writer",
+            "reviewed_by": "reviewer",
+            "reviewed_on": "2026-10-20",
+        }
+        problems = validate.check_bill(r, set(TOPICS))
+        self.assertFalse(any("summary has" in p for p in problems))
+
+    def test_summary_over_120_words_is_reported(self):
+        r = records.record(
+            194, {"BillNumber": "H101", "Title": "x"},
+            DETAIL, ACTIONS, ["ai"], "confirmed"
+        )
+        r["summary"] = {
+            "text": "word " * 120 + "word",
+            "written_by": "writer",
+            "reviewed_by": "reviewer",
+            "reviewed_on": "2026-10-20",
+        }
+        problems = validate.check_bill(r, set(TOPICS))
+        self.assertIn(
+            "H101: summary has 121 words (maximum 120)",
+            problems,
+        )
 
 class Digest(unittest.TestCase):
     def test_only_confirmed_recent(self):

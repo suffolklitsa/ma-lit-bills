@@ -10,6 +10,7 @@ Summaries are what readers see first. They have to be accurate, plain and neutra
 4. **Plain words.** Write for a 1L. Define any term of art in a few words.
 5. **No predictions** about passage or impact.
 6. **Version matters.** Bills get redrafted. Summarize the version linked from the bill's page and say so if you used a redraft (for example "as reported by the Joint Committee on Advanced Information Technology").
+7. **Length.** No more than 120 words.
 
 ## Example
 

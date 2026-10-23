@@ -40,6 +40,15 @@ def check_bill(b: dict, topic_ids: set[str]) -> list[str]:
         for key in ("text", "written_by", "reviewed_by", "reviewed_on"):
             if not s.get(key):
                 out.append(f"{where}: summary needs {key}")
+
+        summary_text = s.get("text")
+        if summary_text:
+            word_count = len(summary_text.split())
+            if word_count > 120:
+                out.append(
+                    f"{where}: summary has {word_count} words (maximum 120)"
+                )
+
         if b["review"] != "confirmed":
             out.append(f"{where}: only confirmed bills get summaries")
     return out
